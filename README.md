@@ -20,3 +20,6 @@ A small non-scientific calculator built using Java AWT Package
    + 'Reset' to clear the entire screen/textfield (functions as All Clear). 
    + A label "Error occured" may appear in case there is a 'division by zero' error. In case it doesn't, then the screen/textfield shows "Infinity".
    
+## Test Example
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80174214/152673637-31dba5b7-02a0-4be5-af0b-8add53c78d78.gif)
